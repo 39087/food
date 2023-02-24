@@ -1,0 +1,25 @@
+body{
+    /* background-image: url('image.คุณอ้อย.jfif/;*/
+ }
+ .container1
+ {
+     width: 80%;
+ } 
+ footer{
+     text-align: center;
+     background-color: rgb(146, 161, 144);
+ }
+ h3{
+     text-align: center;
+ }
+ .ppic{
+     text-align: center;
+ }
+ .col{
+     border: 1px solid rgb(85, 87, 94);
+     margin: 15px;
+     padding: 10px;
+ }
+ .img2{
+     width: auto;
+ }
